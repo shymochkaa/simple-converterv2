@@ -11,7 +11,7 @@ This project is a simple tool for converting units between Metric and Imperial s
 - [Technologies Used](#technologies-used)
 
 ## Demo
-You can see a live demo of the app [here](#).
+You can see a live demo of the app [here](https://shymochkaa.github.io/simple-converterv2/).
 
 ## Features
 - Convert lengths (meters to feet and vice versa)
